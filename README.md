@@ -3,4 +3,13 @@ Aplicación que sirve para descargar videos de Youtube.
 * Se usan hilos para sacar un mensaje mientras se descarga el video.
 * La descarga se realiza en el directorio donde estas ejecutando la aplicación pero puedes cambiarla.
 
-Para ejecutar la aplicacion situate en el directorio y usa python3 main.py o python main.py según la versión de Python que uses.
+Para ejecutar la aplicacion situate en el directorio y usa 
+```sh
+python3 main.py
+```
+o
+
+```sh
+python main.py
+```
+según la versión de Python que uses.
